@@ -63,3 +63,4 @@ TT - Mã sinh viên:  Họ tên
 BS1	235748020110251-Nguyễn Thị Hương Giang
 BS2	235748020110159
 64  235748020110247 Ngô Nguyễn Tiến Quang
+65  235748020110007 Nguyễn Viết Nghĩa
